@@ -1,0 +1,631 @@
+﻿Domain Code,Domain,Area Code (FAO),Area,ISO Currency Code (FAO),Currency,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+PE,Exchange rates - Annual,2,Afghanistan,AFN,Afghani,5540,Standard local currency units per USD,2016,2016,,67.86608577,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,2,Afghanistan,AFN,Afghani,5540,Standard local currency units per USD,2017,2017,,68.02690408,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,2,Afghanistan,AFN,Afghani,5540,Standard local currency units per USD,2018,2018,,72.08324718,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,3,Albania,ALL,Lek,5540,Standard local currency units per USD,2016,2016,,124.1408715,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,3,Albania,ALL,Lek,5540,Standard local currency units per USD,2017,2017,,119.0996667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,3,Albania,ALL,Lek,5540,Standard local currency units per USD,2018,2018,,107.9891667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,4,Algeria,DZD,Algerian Dinar,5540,Standard local currency units per USD,2016,2016,,109.4430667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,4,Algeria,DZD,Algerian Dinar,5540,Standard local currency units per USD,2017,2017,,110.9730167,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,4,Algeria,DZD,Algerian Dinar,5540,Standard local currency units per USD,2018,2018,,116.5937917,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,6,Andorra,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,6,Andorra,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,6,Andorra,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,7,Angola,AOA,Kwanza,5540,Standard local currency units per USD,2016,2016,,163.6564341,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,7,Angola,AOA,Kwanza,5540,Standard local currency units per USD,2017,2017,,165.9159507,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,7,Angola,AOA,Kwanza,5540,Standard local currency units per USD,2018,2018,,252.8557477,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,258,Anguilla,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2016,2016,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,258,Anguilla,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2017,2017,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,258,Anguilla,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2018,2018,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,8,Antigua and Barbuda,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2016,2016,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,8,Antigua and Barbuda,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2017,2017,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,8,Antigua and Barbuda,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2018,2018,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,9,Argentina,ARS,Argentine Peso,5540,Standard local currency units per USD,2016,2016,,14.75817509,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,9,Argentina,ARS,Argentine Peso,5540,Standard local currency units per USD,2017,2017,,16.56270693,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,9,Argentina,ARS,Argentine Peso,5540,Standard local currency units per USD,2018,2018,,28.09499167,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,1,Armenia,AMD,Armenian Dram,5540,Standard local currency units per USD,2016,2016,,480.4881508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,1,Armenia,AMD,Armenian Dram,5540,Standard local currency units per USD,2017,2017,,482.7163939,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,1,Armenia,AMD,Armenian Dram,5540,Standard local currency units per USD,2018,2018,,482.9879466,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,22,Aruba,AWG,Aruban Florin,5540,Standard local currency units per USD,2016,2016,,1.79,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,22,Aruba,AWG,Aruban Florin,5540,Standard local currency units per USD,2017,2017,,1.79,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,22,Aruba,AWG,Aruban Florin,5540,Standard local currency units per USD,2018,2018,,1.79,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,10,Australia,AUD,Australian Dollar,5540,Standard local currency units per USD,2016,2016,,1.345213976,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,10,Australia,AUD,Australian Dollar,5540,Standard local currency units per USD,2017,2017,,1.304758077,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,10,Australia,AUD,Australian Dollar,5540,Standard local currency units per USD,2018,2018,,1.338412147,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,11,Austria,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,11,Austria,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,11,Austria,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,52,Azerbaijan,AZN,Azerbaijanian Manat,5540,Standard local currency units per USD,2016,2016,,1.595721573,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,52,Azerbaijan,AZN,Azerbaijanian Manat,5540,Standard local currency units per USD,2017,2017,,1.721154802,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,52,Azerbaijan,AZN,Azerbaijanian Manat,5540,Standard local currency units per USD,2018,2018,,1.700016667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,12,Bahamas,BSD,Bahamian Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,12,Bahamas,BSD,Bahamian Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,12,Bahamas,BSD,Bahamian Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,13,Bahrain,BHD,Bahraini Dinar,5540,Standard local currency units per USD,2016,2016,,0.376,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,13,Bahrain,BHD,Bahraini Dinar,5540,Standard local currency units per USD,2017,2017,,0.376,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,13,Bahrain,BHD,Bahraini Dinar,5540,Standard local currency units per USD,2018,2018,,0.376,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,16,Bangladesh,BDT,Taka,5540,Standard local currency units per USD,2016,2016,,78.65361667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,16,Bangladesh,BDT,Taka,5540,Standard local currency units per USD,2017,2017,,80.43754167,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,16,Bangladesh,BDT,Taka,5540,Standard local currency units per USD,2018,2018,,83.46620192,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,14,Barbados,BBD,Barbados Dollar,5540,Standard local currency units per USD,2016,2016,,2,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,14,Barbados,BBD,Barbados Dollar,5540,Standard local currency units per USD,2017,2017,,2,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,14,Barbados,BBD,Barbados Dollar,5540,Standard local currency units per USD,2018,2018,,2,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,57,Belarus,BYR,Belarusian Ruble,5540,Standard local currency units per USD,2016,2016,,1.989562833,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,57,Belarus,BYR,Belarusian Ruble,5540,Standard local currency units per USD,2017,2017,,1.932341667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,57,Belarus,BYR,Belarusian Ruble,5540,Standard local currency units per USD,2018,2018,,2.037608333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,255,Belgium,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,255,Belgium,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,255,Belgium,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,23,Belize,BZD,Belize Dollar,5540,Standard local currency units per USD,2016,2016,,2,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,23,Belize,BZD,Belize Dollar,5540,Standard local currency units per USD,2017,2017,,2,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,23,Belize,BZD,Belize Dollar,5540,Standard local currency units per USD,2018,2018,,2,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,53,Benin,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,53,Benin,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,53,Benin,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,17,Bermuda,BMD,Bermudian Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,17,Bermuda,BMD,Bermudian Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,17,Bermuda,BMD,Bermudian Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,18,Bhutan,BTN,Ngultrum,5540,Standard local currency units per USD,2016,2016,,67.19518591,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,18,Bhutan,BTN,Ngultrum,5540,Standard local currency units per USD,2017,2017,,65.12156856,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,18,Bhutan,BTN,Ngultrum,5540,Standard local currency units per USD,2018,2018,,68.38946709,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,19,Bolivia (Plurinational State of),BOB,Boliviano,5540,Standard local currency units per USD,2016,2016,,6.91,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,19,Bolivia (Plurinational State of),BOB,Boliviano,5540,Standard local currency units per USD,2017,2017,,6.91,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,19,Bolivia (Plurinational State of),BOB,Boliviano,5540,Standard local currency units per USD,2018,2018,,6.91,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,80,Bosnia and Herzegovina,BAM,Convertible Mark,5540,Standard local currency units per USD,2016,2016,,1.768139024,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,80,Bosnia and Herzegovina,BAM,Convertible Mark,5540,Standard local currency units per USD,2017,2017,,1.735352713,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,80,Bosnia and Herzegovina,BAM,Convertible Mark,5540,Standard local currency units per USD,2018,2018,,1.656985441,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,20,Botswana,BWP,Pula,5540,Standard local currency units per USD,2016,2016,,10.90115454,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,20,Botswana,BWP,Pula,5540,Standard local currency units per USD,2017,2017,,10.34742088,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,20,Botswana,BWP,Pula,5540,Standard local currency units per USD,2018,2018,,10.199975,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,21,Brazil,BRL,Brazilian Real,5540,Standard local currency units per USD,2016,2016,,3.491313422,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,21,Brazil,BRL,Brazilian Real,5540,Standard local currency units per USD,2017,2017,,3.191389446,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,21,Brazil,BRL,Brazilian Real,5540,Standard local currency units per USD,2018,2018,,3.653825362,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,239,British Virgin Islands,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,239,British Virgin Islands,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,239,British Virgin Islands,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,26,Brunei Darussalam,BND,Brunei Dollar,5540,Standard local currency units per USD,2016,2016,,1.381346877,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,26,Brunei Darussalam,BND,Brunei Dollar,5540,Standard local currency units per USD,2017,2017,,1.380891164,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,26,Brunei Darussalam,BND,Brunei Dollar,5540,Standard local currency units per USD,2018,2018,,1.348918565,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,27,Bulgaria,BGN,Bulgarian Lev,5540,Standard local currency units per USD,2016,2016,,1.768041667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,27,Bulgaria,BGN,Bulgarian Lev,5540,Standard local currency units per USD,2017,2017,,1.735458333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,27,Bulgaria,BGN,Bulgarian Lev,5540,Standard local currency units per USD,2018,2018,,1.657041667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,233,Burkina Faso,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,233,Burkina Faso,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,233,Burkina Faso,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,29,Burundi,BIF,Burundi Franc,5540,Standard local currency units per USD,2016,2016,,1654.626667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,29,Burundi,BIF,Burundi Franc,5540,Standard local currency units per USD,2017,2017,,1729.055,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,29,Burundi,BIF,Burundi Franc,5540,Standard local currency units per USD,2018,2018,,1782.876875,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,35,Cabo Verde,CVE,Cabo Verde Escudo,5540,Standard local currency units per USD,2016,2016,,99.68795356,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,35,Cabo Verde,CVE,Cabo Verde Escudo,5540,Standard local currency units per USD,2017,2017,,97.80693777,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,35,Cabo Verde,CVE,Cabo Verde Escudo,5540,Standard local currency units per USD,2018,2018,,93.41357891,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,115,Cambodia,KHR,Riel,5540,Standard local currency units per USD,2016,2016,,4058.694579,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,115,Cambodia,KHR,Riel,5540,Standard local currency units per USD,2017,2017,,4050.579986,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,115,Cambodia,KHR,Riel,5540,Standard local currency units per USD,2018,2018,,4051.1669,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,32,Cameroon,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,32,Cameroon,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,32,Cameroon,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,33,Canada,CAD,Canadian Dollar,5540,Standard local currency units per USD,2016,2016,,1.325399636,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,33,Canada,CAD,Canadian Dollar,5540,Standard local currency units per USD,2017,2017,,1.297736517,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,33,Canada,CAD,Canadian Dollar,5540,Standard local currency units per USD,2018,2018,,1.295755074,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,36,Cayman Islands,KYD,Cayman Islands Dollar,5540,Standard local currency units per USD,2016,2016,,0.82,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,36,Cayman Islands,KYD,Cayman Islands Dollar,5540,Standard local currency units per USD,2017,2017,,0.82,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,36,Cayman Islands,KYD,Cayman Islands Dollar,5540,Standard local currency units per USD,2018,2018,,0.83333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,37,Central African Republic,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,37,Central African Republic,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,37,Central African Republic,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,39,Chad,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,39,Chad,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,39,Chad,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,40,Chile,CLP,Chilean Peso,5540,Standard local currency units per USD,2016,2016,,676.957736,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,40,Chile,CLP,Chilean Peso,5540,Standard local currency units per USD,2017,2017,,648.8337926,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,40,Chile,CLP,Chilean Peso,5540,Standard local currency units per USD,2018,2018,,641.2768131,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,96,"China, Hong Kong SAR",HKD,Hong Kong Dollar,5540,Standard local currency units per USD,2016,2016,,7.76225,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,96,"China, Hong Kong SAR",HKD,Hong Kong Dollar,5540,Standard local currency units per USD,2017,2017,,7.79325,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,96,"China, Hong Kong SAR",HKD,Hong Kong Dollar,5540,Standard local currency units per USD,2018,2018,,7.8385,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,128,"China, Macao SAR",MOP,Pataca,5540,Standard local currency units per USD,2016,2016,,7.99506425,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,128,"China, Macao SAR",MOP,Pataca,5540,Standard local currency units per USD,2017,2017,,8.026001,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,128,"China, Macao SAR",MOP,Pataca,5540,Standard local currency units per USD,2018,2018,,8.072507417,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,41,"China, mainland",CNY,Yuan Renminbi,5540,Standard local currency units per USD,2016,2016,,6.644477829,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,41,"China, mainland",CNY,Yuan Renminbi,5540,Standard local currency units per USD,2017,2017,,6.758755086,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,41,"China, mainland",CNY,Yuan Renminbi,5540,Standard local currency units per USD,2018,2018,,6.615957177,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,44,Colombia,COP,Colombian Peso,5540,Standard local currency units per USD,2016,2016,,3054.121673,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,44,Colombia,COP,Colombian Peso,5540,Standard local currency units per USD,2017,2017,,2951.327402,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,44,Colombia,COP,Colombian Peso,5540,Standard local currency units per USD,2018,2018,,2955.70397,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,45,Comoros,KMF,Comoro Franc,5540,Standard local currency units per USD,2016,2016,,444.7563538,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,45,Comoros,KMF,Comoro Franc,5540,Standard local currency units per USD,2017,2017,,435.4925622,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,45,Comoros,KMF,Comoro Franc,5540,Standard local currency units per USD,2018,2018,,416.5848438,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,46,Congo,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,46,Congo,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,46,Congo,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,47,Cook Islands,NZD,New Zealand Dollar,5540,Standard local currency units per USD,2016,2016,,1.436525,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,47,Cook Islands,NZD,New Zealand Dollar,5540,Standard local currency units per USD,2017,2017,,1.407408333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,47,Cook Islands,NZD,New Zealand Dollar,5540,Standard local currency units per USD,2018,2018,,1.445258333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,48,Costa Rica,CRC,Costa Rican Colon,5540,Standard local currency units per USD,2016,2016,,544.7393672,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,48,Costa Rica,CRC,Costa Rican Colon,5540,Standard local currency units per USD,2017,2017,,567.5130903,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,48,Costa Rica,CRC,Costa Rican Colon,5540,Standard local currency units per USD,2018,2018,,576.9725013,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,107,C?te d'Ivoire,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,107,C?te d'Ivoire,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,107,C?te d'Ivoire,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,98,Croatia,HRK,Kuna,5540,Standard local currency units per USD,2016,2016,,6.805990167,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,98,Croatia,HRK,Kuna,5540,Standard local currency units per USD,2017,2017,,6.623831,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,98,Croatia,HRK,Kuna,5540,Standard local currency units per USD,2018,2018,,6.27902525,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,49,Cuba,CUP,Cuban Peso,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,49,Cuba,CUP,Cuban Peso,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,49,Cuba,CUP,Cuban Peso,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,279,Cura?ao,ANG,Netherlands Antillean Guilder,5540,Standard local currency units per USD,2016,2016,,1.79,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,279,Cura?ao,ANG,Netherlands Antillean Guilder,5540,Standard local currency units per USD,2017,2017,,1.79,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,279,Cura?ao,ANG,Netherlands Antillean Guilder,5540,Standard local currency units per USD,2018,2018,,1.79,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,50,Cyprus,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,50,Cyprus,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,50,Cyprus,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,167,Czechia,CZK,Czech Koruna,5540,Standard local currency units per USD,2016,2016,,24.43991667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,167,Czechia,CZK,Czech Koruna,5540,Standard local currency units per USD,2017,2017,,23.37633333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,167,Czechia,CZK,Czech Koruna,5540,Standard local currency units per USD,2018,2018,,21.72991667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,116,Democratic People's Republic of Korea,KPW,North Korean Won,5540,Standard local currency units per USD,2016,2016,,107.7541667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,116,Democratic People's Republic of Korea,KPW,North Korean Won,5540,Standard local currency units per USD,2017,2017,,107.7416667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,116,Democratic People's Republic of Korea,KPW,North Korean Won,5540,Standard local currency units per USD,2018,2018,,104.9208333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,250,Democratic Republic of the Congo,CDF,Congolese Franc,5540,Standard local currency units per USD,2016,2016,,1010.302757,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,250,Democratic Republic of the Congo,CDF,Congolese Franc,5540,Standard local currency units per USD,2017,2017,,1464.417932,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,250,Democratic Republic of the Congo,CDF,Congolese Franc,5540,Standard local currency units per USD,2018,2018,,1622.523502,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,54,Denmark,DKK,Danish Krone,5540,Standard local currency units per USD,2016,2016,,6.731718257,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,54,Denmark,DKK,Danish Krone,5540,Standard local currency units per USD,2017,2017,,6.602893466,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,54,Denmark,DKK,Danish Krone,5540,Standard local currency units per USD,2018,2018,,6.314618787,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,72,Djibouti,DJF,Djibouti Franc,5540,Standard local currency units per USD,2016,2016,,177.72,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,72,Djibouti,DJF,Djibouti Franc,5540,Standard local currency units per USD,2017,2017,,177.72,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,72,Djibouti,DJF,Djibouti Franc,5540,Standard local currency units per USD,2018,2018,,177.72,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,55,Dominica,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2016,2016,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,55,Dominica,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2017,2017,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,55,Dominica,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2018,2018,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,56,Dominican Republic,DOP,Dominican Peso,5540,Standard local currency units per USD,2016,2016,,46.07797961,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,56,Dominican Republic,DOP,Dominican Peso,5540,Standard local currency units per USD,2017,2017,,47.5343582,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,56,Dominican Republic,DOP,Dominican Peso,5540,Standard local currency units per USD,2018,2018,,49.50999286,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,58,Ecuador,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,58,Ecuador,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,58,Ecuador,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,59,Egypt,EGP,Egyptian Pound,5540,Standard local currency units per USD,2016,2016,,10.02540079,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,59,Egypt,EGP,Egyptian Pound,5540,Standard local currency units per USD,2017,2017,,17.78253352,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,59,Egypt,EGP,Egyptian Pound,5540,Standard local currency units per USD,2018,2018,,17.76729042,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,60,El Salvador,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,60,El Salvador,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,60,El Salvador,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,61,Equatorial Guinea,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,61,Equatorial Guinea,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,61,Equatorial Guinea,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,178,Eritrea,ERN,Nakfa,5540,Standard local currency units per USD,2016,2016,,15.35,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,178,Eritrea,ERN,Nakfa,5540,Standard local currency units per USD,2017,2017,,15.075,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,178,Eritrea,ERN,Nakfa,5540,Standard local currency units per USD,2018,2018,,15.075,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,63,Estonia,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,63,Estonia,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,63,Estonia,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,209,Eswatini,SZL,Lilangeni,5540,Standard local currency units per USD,2016,2016,,14.70961089,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,209,Eswatini,SZL,Lilangeni,5540,Standard local currency units per USD,2017,2017,,13.33378146,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,209,Eswatini,SZL,Lilangeni,5540,Standard local currency units per USD,2018,2018,,13.24091113,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,238,Ethiopia,ETB,Ethiopian Birr,5540,Standard local currency units per USD,2016,2016,,21.73154722,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,238,Ethiopia,ETB,Ethiopian Birr,5540,Standard local currency units per USD,2017,2017,,23.86610446,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,238,Ethiopia,ETB,Ethiopian Birr,5540,Standard local currency units per USD,2018,2018,,27.42938659,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,66,Fiji,FJD,Fiji Dollar,5540,Standard local currency units per USD,2016,2016,,2.094683036,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,66,Fiji,FJD,Fiji Dollar,5540,Standard local currency units per USD,2017,2017,,2.066875304,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,66,Fiji,FJD,Fiji Dollar,5540,Standard local currency units per USD,2018,2018,,2.087379789,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,67,Finland,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,67,Finland,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,67,Finland,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,68,France,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,68,France,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,68,France,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,70,French Polynesia,XPF,CFP Franc,5540,Standard local currency units per USD,2016,2016,,107.8800487,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,70,French Polynesia,XPF,CFP Franc,5540,Standard local currency units per USD,2017,2017,,105.6330782,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,70,French Polynesia,XPF,CFP Franc,5540,Standard local currency units per USD,2018,2018,,101.0468219,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,74,Gabon,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,74,Gabon,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,74,Gabon,XAF,CFA Franc BEAC,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,75,Gambia,GMD,Dalasi,5540,Standard local currency units per USD,2016,2016,,43.8846336,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,75,Gambia,GMD,Dalasi,5540,Standard local currency units per USD,2017,2017,,46.60752712,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,75,Gambia,GMD,Dalasi,5540,Standard local currency units per USD,2018,2018,,48.15134559,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,73,Georgia,GEL,Lari,5540,Standard local currency units per USD,2016,2016,,2.366725,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,73,Georgia,GEL,Lari,5540,Standard local currency units per USD,2017,2017,,2.509541667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,73,Georgia,GEL,Lari,5540,Standard local currency units per USD,2018,2018,,2.534110833,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,79,Germany,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,79,Germany,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,79,Germany,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,81,Ghana,GHS,Ghana Cedi,5540,Standard local currency units per USD,2016,2016,,3.9098,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,81,Ghana,GHS,Ghana Cedi,5540,Standard local currency units per USD,2017,2017,,4.350741667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,81,Ghana,GHS,Ghana Cedi,5540,Standard local currency units per USD,2018,2018,,4.586816667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,84,Greece,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,84,Greece,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,84,Greece,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,85,Greenland,DKK,Danish Krone,5540,Standard local currency units per USD,2016,2016,,6.731718257,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,85,Greenland,DKK,Danish Krone,5540,Standard local currency units per USD,2017,2017,,6.602893466,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,85,Greenland,DKK,Danish Krone,5540,Standard local currency units per USD,2018,2018,,6.314618787,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,86,Grenada,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2016,2016,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,86,Grenada,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2017,2017,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,86,Grenada,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2018,2018,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,89,Guatemala,GTQ,Quetzal,5540,Standard local currency units per USD,2016,2016,,7.599937083,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,89,Guatemala,GTQ,Quetzal,5540,Standard local currency units per USD,2017,2017,,7.34793875,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,89,Guatemala,GTQ,Quetzal,5540,Standard local currency units per USD,2018,2018,,7.519164583,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,90,Guinea,GNF,Guinea Franc,5540,Standard local currency units per USD,2016,2016,,8959.716125,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,90,Guinea,GNF,Guinea Franc,5540,Standard local currency units per USD,2017,2017,,9088.319508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,90,Guinea,GNF,Guinea Franc,5540,Standard local currency units per USD,2018,2018,,9011.134179,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,175,Guinea-Bissau,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,175,Guinea-Bissau,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,175,Guinea-Bissau,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,91,Guyana,GYD,Guyana Dollar,5540,Standard local currency units per USD,2016,2016,,206.5,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,91,Guyana,GYD,Guyana Dollar,5540,Standard local currency units per USD,2017,2017,,206.5,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,91,Guyana,GYD,Guyana Dollar,5540,Standard local currency units per USD,2018,2018,,207.7166667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,93,Haiti,HTG,Gourde,5540,Standard local currency units per USD,2016,2016,,63.33581837,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,93,Haiti,HTG,Gourde,5540,Standard local currency units per USD,2017,2017,,64.76968029,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,93,Haiti,HTG,Gourde,5540,Standard local currency units per USD,2018,2018,,68.03175398,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,95,Honduras,HNL,Lempira,5540,Standard local currency units per USD,2016,2016,,22.83501839,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,95,Honduras,HNL,Lempira,5540,Standard local currency units per USD,2017,2017,,23.48708394,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,95,Honduras,HNL,Lempira,5540,Standard local currency units per USD,2018,2018,,23.90272829,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,97,Hungary,HUF,Forint,5540,Standard local currency units per USD,2016,2016,,281.5233333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,97,Hungary,HUF,Forint,5540,Standard local currency units per USD,2017,2017,,274.4333333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,97,Hungary,HUF,Forint,5540,Standard local currency units per USD,2018,2018,,270.2116667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,99,Iceland,ISK,Iceland Krona,5540,Standard local currency units per USD,2016,2016,,120.8115481,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,99,Iceland,ISK,Iceland Krona,5540,Standard local currency units per USD,2017,2017,,106.839572,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,99,Iceland,ISK,Iceland Krona,5540,Standard local currency units per USD,2018,2018,,108.3001763,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,100,India,INR,Indian Rupee,5540,Standard local currency units per USD,2016,2016,,67.19518591,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,100,India,INR,Indian Rupee,5540,Standard local currency units per USD,2017,2017,,65.12156865,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,100,India,INR,Indian Rupee,5540,Standard local currency units per USD,2018,2018,,68.39784018,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,101,Indonesia,IDR,Rupiah,5540,Standard local currency units per USD,2016,2016,,13308.3268,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,101,Indonesia,IDR,Rupiah,5540,Standard local currency units per USD,2017,2017,,13380.83388,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,101,Indonesia,IDR,Rupiah,5540,Standard local currency units per USD,2018,2018,,14236.93877,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,102,Iran (Islamic Republic of),IRR,Iranian Rial,5540,Standard local currency units per USD,2016,2016,,30914.85244,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,102,Iran (Islamic Republic of),IRR,Iranian Rial,5540,Standard local currency units per USD,2017,2017,,33226.29815,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,102,Iran (Islamic Republic of),IRR,Iranian Rial,5540,Standard local currency units per USD,2018,2018,,40864.32901,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,103,Iraq,IQD,Iraqi Dinar,5540,Standard local currency units per USD,2016,2016,,1182,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,103,Iraq,IQD,Iraqi Dinar,5540,Standard local currency units per USD,2017,2017,,1184,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,103,Iraq,IQD,Iraqi Dinar,5540,Standard local currency units per USD,2018,2018,,1182.75,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,104,Ireland,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,104,Ireland,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,104,Ireland,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,105,Israel,ILS,New Israeli Sheqel,5540,Standard local currency units per USD,2016,2016,,3.840566667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,105,Israel,ILS,New Israeli Sheqel,5540,Standard local currency units per USD,2017,2017,,3.599555548,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,105,Israel,ILS,New Israeli Sheqel,5540,Standard local currency units per USD,2018,2018,,3.590558127,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,106,Italy,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,106,Italy,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,106,Italy,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,109,Jamaica,JMD,Jamaican Dollar,5540,Standard local currency units per USD,2016,2016,,125.0950352,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,109,Jamaica,JMD,Jamaican Dollar,5540,Standard local currency units per USD,2017,2017,,127.9645442,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,109,Jamaica,JMD,Jamaican Dollar,5540,Standard local currency units per USD,2018,2018,,128.8715191,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,110,Japan,JPY,Yen,5540,Standard local currency units per USD,2016,2016,,108.7929001,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,110,Japan,JPY,Yen,5540,Standard local currency units per USD,2017,2017,,112.1661411,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,110,Japan,JPY,Yen,5540,Standard local currency units per USD,2018,2018,,110.4231793,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,112,Jordan,JOD,Jordanian Dinar,5540,Standard local currency units per USD,2016,2016,,0.71,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,112,Jordan,JOD,Jordanian Dinar,5540,Standard local currency units per USD,2017,2017,,0.71,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,112,Jordan,JOD,Jordanian Dinar,5540,Standard local currency units per USD,2018,2018,,0.71,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,108,Kazakhstan,KZT,Tenge,5540,Standard local currency units per USD,2016,2016,,342.16,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,108,Kazakhstan,KZT,Tenge,5540,Standard local currency units per USD,2017,2017,,326.0010227,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,108,Kazakhstan,KZT,Tenge,5540,Standard local currency units per USD,2018,2018,,344.7058333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,114,Kenya,KES,Kenyan Shilling,5540,Standard local currency units per USD,2016,2016,,101.5043695,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,114,Kenya,KES,Kenyan Shilling,5540,Standard local currency units per USD,2017,2017,,103.4109163,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,114,Kenya,KES,Kenyan Shilling,5540,Standard local currency units per USD,2018,2018,,101.3015741,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,83,Kiribati,AUD,Australian Dollar,5540,Standard local currency units per USD,2016,2016,,1.345213976,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,83,Kiribati,AUD,Australian Dollar,5540,Standard local currency units per USD,2017,2017,,1.304758077,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,83,Kiribati,AUD,Australian Dollar,5540,Standard local currency units per USD,2018,2018,,1.338412147,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,118,Kuwait,KWD,Kuwaiti Dinar,5540,Standard local currency units per USD,2016,2016,,0.302137441,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,118,Kuwait,KWD,Kuwaiti Dinar,5540,Standard local currency units per USD,2017,2017,,0.303349758,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,118,Kuwait,KWD,Kuwaiti Dinar,5540,Standard local currency units per USD,2018,2018,,0.301956494,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,113,Kyrgyzstan,KGS,Som,5540,Standard local currency units per USD,2016,2016,,69.91406583,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,113,Kyrgyzstan,KGS,Som,5540,Standard local currency units per USD,2017,2017,,68.86666786,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,113,Kyrgyzstan,KGS,Som,5540,Standard local currency units per USD,2018,2018,,68.84032033,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,120,Lao People's Democratic Republic,LAK,Kip,5540,Standard local currency units per USD,2016,2016,,8179.268333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,120,Lao People's Democratic Republic,LAK,Kip,5540,Standard local currency units per USD,2017,2017,,8244.843189,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,120,Lao People's Democratic Republic,LAK,Kip,5540,Standard local currency units per USD,2018,2018,,8401.334766,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,119,Latvia,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,119,Latvia,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,119,Latvia,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,121,Lebanon,LBP,Lebanese Pound,5540,Standard local currency units per USD,2016,2016,,1507.5,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,121,Lebanon,LBP,Lebanese Pound,5540,Standard local currency units per USD,2017,2017,,1507.5,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,121,Lebanon,LBP,Lebanese Pound,5540,Standard local currency units per USD,2018,2018,,1507.5,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,122,Lesotho,LSL,Loti,5540,Standard local currency units per USD,2016,2016,,14.70961089,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,122,Lesotho,LSL,Loti,5540,Standard local currency units per USD,2017,2017,,13.33378146,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,122,Lesotho,LSL,Loti,5540,Standard local currency units per USD,2018,2018,,13.24091113,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,123,Liberia,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,123,Liberia,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,123,Liberia,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,124,Libya,LYD,Libyan Dinar,5540,Standard local currency units per USD,2016,2016,,1.390368679,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,124,Libya,LYD,Libyan Dinar,5540,Standard local currency units per USD,2017,2017,,1.393820011,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,124,Libya,LYD,Libyan Dinar,5540,Standard local currency units per USD,2018,2018,,1.364966667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,125,Liechtenstein,CHF,Swiss Franc,5540,Standard local currency units per USD,2016,2016,,0.985394394,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,125,Liechtenstein,CHF,Swiss Franc,5540,Standard local currency units per USD,2017,2017,,0.984691667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,125,Liechtenstein,CHF,Swiss Franc,5540,Standard local currency units per USD,2018,2018,,0.977883333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,126,Lithuania,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,126,Lithuania,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,126,Lithuania,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,256,Luxembourg,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,256,Luxembourg,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,256,Luxembourg,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,129,Madagascar,MGA,Malagasy Ariary,5540,Standard local currency units per USD,2016,2016,,3176.539167,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,129,Madagascar,MGA,Malagasy Ariary,5540,Standard local currency units per USD,2017,2017,,3116.11,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,129,Madagascar,MGA,Malagasy Ariary,5540,Standard local currency units per USD,2018,2018,,3334.752255,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,130,Malawi,MWK,Malawi Kwacha,5540,Standard local currency units per USD,2016,2016,,718.005,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,130,Malawi,MWK,Malawi Kwacha,5540,Standard local currency units per USD,2017,2017,,730.2725,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,130,Malawi,MWK,Malawi Kwacha,5540,Standard local currency units per USD,2018,2018,,732.3333333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,131,Malaysia,MYR,Malaysian Ringgit,5540,Standard local currency units per USD,2016,2016,,4.148300663,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,131,Malaysia,MYR,Malaysian Ringgit,5540,Standard local currency units per USD,2017,2017,,4.300440878,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,131,Malaysia,MYR,Malaysian Ringgit,5540,Standard local currency units per USD,2018,2018,,4.035130137,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,132,Maldives,MVR,Rufiyaa,5540,Standard local currency units per USD,2016,2016,,15.36840768,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,132,Maldives,MVR,Rufiyaa,5540,Standard local currency units per USD,2017,2017,,15.38696851,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,132,Maldives,MVR,Rufiyaa,5540,Standard local currency units per USD,2018,2018,,15.39083727,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,133,Mali,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,133,Mali,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,133,Mali,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,134,Malta,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,134,Malta,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,134,Malta,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,127,Marshall Islands,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,127,Marshall Islands,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,127,Marshall Islands,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,136,Mauritania,MRO,Ouguiya,5540,Standard local currency units per USD,2016,2016,,35.23708333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,136,Mauritania,MRO,Ouguiya,5540,Standard local currency units per USD,2017,2017,,35.79441667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,136,Mauritania,MRO,Ouguiya,5540,Standard local currency units per USD,2018,2018,,35.6775,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,137,Mauritius,MUR,Mauritius Rupee,5540,Standard local currency units per USD,2016,2016,,35.54188333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,137,Mauritius,MUR,Mauritius Rupee,5540,Standard local currency units per USD,2017,2017,,34.48140833,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,137,Mauritius,MUR,Mauritius Rupee,5540,Standard local currency units per USD,2018,2018,,33.93445,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,138,Mexico,MXN,Mexican Peso,5540,Standard local currency units per USD,2016,2016,,18.66405833,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,138,Mexico,MXN,Mexican Peso,5540,Standard local currency units per USD,2017,2017,,18.92651667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,138,Mexico,MXN,Mexican Peso,5540,Standard local currency units per USD,2018,2018,,19.24434167,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,145,Micronesia (Federated States of),USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,145,Micronesia (Federated States of),USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,145,Micronesia (Federated States of),USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,140,Monaco,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,140,Monaco,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,140,Monaco,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,141,Mongolia,MNT,Tugrik,5540,Standard local currency units per USD,2016,2016,,2140.290864,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,141,Mongolia,MNT,Tugrik,5540,Standard local currency units per USD,2017,2017,,2439.777237,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,141,Mongolia,MNT,Tugrik,5540,Standard local currency units per USD,2018,2018,,2472.484051,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,273,Montenegro,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,273,Montenegro,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,273,Montenegro,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,142,Montserrat,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2016,2016,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,142,Montserrat,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2017,2017,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,142,Montserrat,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2018,2018,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,143,Morocco,MAD,Moroccan Dirham,5540,Standard local currency units per USD,2016,2016,,9.807476032,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,143,Morocco,MAD,Moroccan Dirham,5540,Standard local currency units per USD,2017,2017,,9.691997889,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,143,Morocco,MAD,Moroccan Dirham,5540,Standard local currency units per USD,2018,2018,,9.386102421,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,144,Mozambique,MZN,Mozambique Metical,5540,Standard local currency units per USD,2016,2016,,63.05623273,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,144,Mozambique,MZN,Mozambique Metical,5540,Standard local currency units per USD,2017,2017,,63.58432291,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,144,Mozambique,MZN,Mozambique Metical,5540,Standard local currency units per USD,2018,2018,,60.32620764,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,28,Myanmar,MMK,Kyat,5540,Standard local currency units per USD,2016,2016,,1234.869517,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,28,Myanmar,MMK,Kyat,5540,Standard local currency units per USD,2017,2017,,1360.358707,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,28,Myanmar,MMK,Kyat,5540,Standard local currency units per USD,2018,2018,,1429.807975,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,147,Namibia,NAD,Namibia Dollar,5540,Standard local currency units per USD,2016,2016,,14.70876667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,147,Namibia,NAD,Namibia Dollar,5540,Standard local currency units per USD,2017,2017,,13.3129,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,147,Namibia,NAD,Namibia Dollar,5540,Standard local currency units per USD,2018,2018,,13.23394167,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,148,Nauru,AUD,Australian Dollar,5540,Standard local currency units per USD,2016,2016,,1.345213976,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,148,Nauru,AUD,Australian Dollar,5540,Standard local currency units per USD,2017,2017,,1.304758077,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,148,Nauru,AUD,Australian Dollar,5540,Standard local currency units per USD,2018,2018,,1.338412147,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,149,Nepal,NPR,Nepalese Rupee,5540,Standard local currency units per USD,2016,2016,,107.3838152,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,149,Nepal,NPR,Nepalese Rupee,5540,Standard local currency units per USD,2017,2017,,104.5118852,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,149,Nepal,NPR,Nepalese Rupee,5540,Standard local currency units per USD,2018,2018,,108.9109184,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,150,Netherlands,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,150,Netherlands,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,150,Netherlands,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,153,New Caledonia,XPF,CFP Franc,5540,Standard local currency units per USD,2016,2016,,107.8800487,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,153,New Caledonia,XPF,CFP Franc,5540,Standard local currency units per USD,2017,2017,,105.6330782,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,153,New Caledonia,XPF,CFP Franc,5540,Standard local currency units per USD,2018,2018,,101.0468219,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,156,New Zealand,NZD,New Zealand Dollar,5540,Standard local currency units per USD,2016,2016,,1.436525,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,156,New Zealand,NZD,New Zealand Dollar,5540,Standard local currency units per USD,2017,2017,,1.407408333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,156,New Zealand,NZD,New Zealand Dollar,5540,Standard local currency units per USD,2018,2018,,1.445258333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,157,Nicaragua,NIO,Cordoba Oro,5540,Standard local currency units per USD,2016,2016,,28.62096241,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,157,Nicaragua,NIO,Cordoba Oro,5540,Standard local currency units per USD,2017,2017,,30.05094134,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,157,Nicaragua,NIO,Cordoba Oro,5540,Standard local currency units per USD,2018,2018,,31.55321233,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,158,Niger,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,158,Niger,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,158,Niger,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,159,Nigeria,NGN,Naira,5540,Standard local currency units per USD,2016,2016,,253.4922519,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,159,Nigeria,NGN,Naira,5540,Standard local currency units per USD,2017,2017,,305.7901092,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,159,Nigeria,NGN,Naira,5540,Standard local currency units per USD,2018,2018,,306.0836883,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,154,North Macedonia,MKD,Denar,5540,Standard local currency units per USD,2016,2016,,55.731725,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,154,North Macedonia,MKD,Denar,5540,Standard local currency units per USD,2017,2017,,54.66545833,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,154,North Macedonia,MKD,Denar,5540,Standard local currency units per USD,2018,2018,,52.10710833,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,162,Norway,NOK,Norwegian Krone,5540,Standard local currency units per USD,2016,2016,,8.400164286,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,162,Norway,NOK,Norwegian Krone,5540,Standard local currency units per USD,2017,2017,,8.271666667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,162,Norway,NOK,Norwegian Krone,5540,Standard local currency units per USD,2018,2018,,8.1325,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,221,Oman,OMR,Rial Omani,5540,Standard local currency units per USD,2016,2016,,0.3845,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,221,Oman,OMR,Rial Omani,5540,Standard local currency units per USD,2017,2017,,0.3845,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,221,Oman,OMR,Rial Omani,5540,Standard local currency units per USD,2018,2018,,0.3845,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,165,Pakistan,PKR,Pakistan Rupee,5540,Standard local currency units per USD,2016,2016,,104.769117,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,165,Pakistan,PKR,Pakistan Rupee,5540,Standard local currency units per USD,2017,2017,,105.4551621,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,165,Pakistan,PKR,Pakistan Rupee,5540,Standard local currency units per USD,2018,2018,,121.8240689,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,180,Palau,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,180,Palau,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,180,Palau,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,299,Palestine,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,299,Palestine,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,299,Palestine,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,166,Panama,PAB,Balboa,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,166,Panama,PAB,Balboa,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,166,Panama,PAB,Balboa,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,168,Papua New Guinea,PGK,Kina,5540,Standard local currency units per USD,2016,2016,,3.133029302,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,168,Papua New Guinea,PGK,Kina,5540,Standard local currency units per USD,2017,2017,,3.188788383,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,168,Papua New Guinea,PGK,Kina,5540,Standard local currency units per USD,2018,2018,,3.279036634,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,169,Paraguay,PYG,Guarani,5540,Standard local currency units per USD,2016,2016,,5670.517431,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,169,Paraguay,PYG,Guarani,5540,Standard local currency units per USD,2017,2017,,5618.933452,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,169,Paraguay,PYG,Guarani,5540,Standard local currency units per USD,2018,2018,,5732.104556,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,170,Peru,PEN,Sol,5540,Standard local currency units per USD,2016,2016,,3.375061587,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,170,Peru,PEN,Sol,5540,Standard local currency units per USD,2017,2017,,3.260488491,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,170,Peru,PEN,Sol,5540,Standard local currency units per USD,2018,2018,,3.286602698,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,171,Philippines,PHP,Philippine Peso,5540,Standard local currency units per USD,2016,2016,,47.49246386,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,171,Philippines,PHP,Philippine Peso,5540,Standard local currency units per USD,2017,2017,,50.40371979,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,171,Philippines,PHP,Philippine Peso,5540,Standard local currency units per USD,2018,2018,,52.66142995,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,173,Poland,PLN,Zloty,5540,Standard local currency units per USD,2016,2016,,3.942783333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,173,Poland,PLN,Zloty,5540,Standard local currency units per USD,2017,2017,,3.779333333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,173,Poland,PLN,Zloty,5540,Standard local currency units per USD,2018,2018,,3.611716667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,174,Portugal,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,174,Portugal,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,174,Portugal,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,177,Puerto Rico,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,177,Puerto Rico,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,177,Puerto Rico,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,179,Qatar,QAR,Qatari Rial,5540,Standard local currency units per USD,2016,2016,,3.64,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,179,Qatar,QAR,Qatari Rial,5540,Standard local currency units per USD,2017,2017,,3.64,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,179,Qatar,QAR,Qatari Rial,5540,Standard local currency units per USD,2018,2018,,3.64,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,117,Republic of Korea,KRW,Won,5540,Standard local currency units per USD,2016,2016,,1160.433435,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,117,Republic of Korea,KRW,Won,5540,Standard local currency units per USD,2017,2017,,1130.424621,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,117,Republic of Korea,KRW,Won,5540,Standard local currency units per USD,2018,2018,,1100.5575,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,146,Republic of Moldova,MDL,Moldovan Leu,5540,Standard local currency units per USD,2016,2016,,19.92382756,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,146,Republic of Moldova,MDL,Moldovan Leu,5540,Standard local currency units per USD,2017,2017,,18.49903489,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,146,Republic of Moldova,MDL,Moldovan Leu,5540,Standard local currency units per USD,2018,2018,,16.80205172,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,183,Romania,RON,Romanian Leu,5540,Standard local currency units per USD,2016,2016,,4.059183333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,183,Romania,RON,Romanian Leu,5540,Standard local currency units per USD,2017,2017,,4.052491667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,183,Romania,RON,Romanian Leu,5540,Standard local currency units per USD,2018,2018,,3.941616667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,185,Russian Federation,RUB,Russian Ruble,5540,Standard local currency units per USD,2016,2016,,67.05593333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,185,Russian Federation,RUB,Russian Ruble,5540,Standard local currency units per USD,2017,2017,,58.34280119,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,185,Russian Federation,RUB,Russian Ruble,5540,Standard local currency units per USD,2018,2018,,62.66813333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,184,Rwanda,RWF,Rwanda Franc,5540,Standard local currency units per USD,2016,2016,,787.2515217,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,184,Rwanda,RWF,Rwanda Franc,5540,Standard local currency units per USD,2017,2017,,831.5307869,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,184,Rwanda,RWF,Rwanda Franc,5540,Standard local currency units per USD,2018,2018,,861.0934122,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,188,Saint Kitts and Nevis,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2016,2016,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,188,Saint Kitts and Nevis,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2017,2017,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,188,Saint Kitts and Nevis,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2018,2018,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,189,Saint Lucia,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2016,2016,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,189,Saint Lucia,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2017,2017,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,189,Saint Lucia,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2018,2018,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,191,Saint Vincent and the Grenadines,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2016,2016,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,191,Saint Vincent and the Grenadines,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2017,2017,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,191,Saint Vincent and the Grenadines,XCD,East Caribbean Dollar,5540,Standard local currency units per USD,2018,2018,,2.7,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,244,Samoa,WST,Tala,5540,Standard local currency units per USD,2016,2016,,2.564947969,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,244,Samoa,WST,Tala,5540,Standard local currency units per USD,2017,2017,,2.554377116,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,244,Samoa,WST,Tala,5540,Standard local currency units per USD,2018,2018,,2.587279951,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,192,San Marino,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,192,San Marino,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,192,San Marino,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,193,Sao Tome and Principe,STD,Dobra,5540,Standard local currency units per USD,2016,2016,,22.14886064,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,193,Sao Tome and Principe,STD,Dobra,5540,Standard local currency units per USD,2017,2017,,21.74113836,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,193,Sao Tome and Principe,STD,Dobra,5540,Standard local currency units per USD,2018,2018,,20.75085924,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,194,Saudi Arabia,SAR,Saudi Riyal,5540,Standard local currency units per USD,2016,2016,,3.75,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,194,Saudi Arabia,SAR,Saudi Riyal,5540,Standard local currency units per USD,2017,2017,,3.75,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,194,Saudi Arabia,SAR,Saudi Riyal,5540,Standard local currency units per USD,2018,2018,,3.75,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,195,Senegal,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,195,Senegal,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,195,Senegal,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,272,Serbia,RSD,Serbian Dinar,5540,Standard local currency units per USD,2016,2016,,111.27785,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,272,Serbia,RSD,Serbian Dinar,5540,Standard local currency units per USD,2017,2017,,107.75885,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,272,Serbia,RSD,Serbian Dinar,5540,Standard local currency units per USD,2018,2018,,100.175075,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,196,Seychelles,SCR,Seychelles Rupee,5540,Standard local currency units per USD,2016,2016,,13.31911667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,196,Seychelles,SCR,Seychelles Rupee,5540,Standard local currency units per USD,2017,2017,,13.64784167,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,196,Seychelles,SCR,Seychelles Rupee,5540,Standard local currency units per USD,2018,2018,,13.91111667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,197,Sierra Leone,SLL,Leone,5540,Standard local currency units per USD,2016,2016,,6289.940085,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,197,Sierra Leone,SLL,Leone,5540,Standard local currency units per USD,2017,2017,,7384.432223,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,197,Sierra Leone,SLL,Leone,5540,Standard local currency units per USD,2018,2018,,7931.63175,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,200,Singapore,SGD,Singapore Dollar,5540,Standard local currency units per USD,2016,2016,,1.381546364,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,200,Singapore,SGD,Singapore Dollar,5540,Standard local currency units per USD,2017,2017,,1.380925,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,200,Singapore,SGD,Singapore Dollar,5540,Standard local currency units per USD,2018,2018,,1.348841667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,280,Sint Maarten (Dutch part),ANG,Netherlands Antillean Guilder,5540,Standard local currency units per USD,2016,2016,,1.79,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,280,Sint Maarten (Dutch part),ANG,Netherlands Antillean Guilder,5540,Standard local currency units per USD,2017,2017,,1.79,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,280,Sint Maarten (Dutch part),ANG,Netherlands Antillean Guilder,5540,Standard local currency units per USD,2018,2018,,1.79,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,199,Slovakia,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,199,Slovakia,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,199,Slovakia,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,198,Slovenia,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,198,Slovenia,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,198,Slovenia,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,25,Solomon Islands,SBD,Solomon Islands Dollar,5540,Standard local currency units per USD,2016,2016,,7.948152938,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,25,Solomon Islands,SBD,Solomon Islands Dollar,5540,Standard local currency units per USD,2017,2017,,7.887390369,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,25,Solomon Islands,SBD,Solomon Islands Dollar,5540,Standard local currency units per USD,2018,2018,,7.952504861,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,201,Somalia,SOS,Somali Shilling,5540,Standard local currency units per USD,2016,2016,,23061.78431,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,201,Somalia,SOS,Somali Shilling,5540,Standard local currency units per USD,2017,2017,,23097.98732,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,201,Somalia,SOS,Somali Shilling,5540,Standard local currency units per USD,2018,2018,,24300,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,202,South Africa,ZAR,Rand,5540,Standard local currency units per USD,2016,2016,,14.70961089,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,202,South Africa,ZAR,Rand,5540,Standard local currency units per USD,2017,2017,,13.33378146,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,202,South Africa,ZAR,Rand,5540,Standard local currency units per USD,2018,2018,,13.24091113,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,277,South Sudan,SSP,South Sudanese Pound,5540,Standard local currency units per USD,2016,2016,,46.72916667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,277,South Sudan,SSP,South Sudanese Pound,5540,Standard local currency units per USD,2017,2017,,113.6475,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,277,South Sudan,SSP,South Sudanese Pound,5540,Standard local currency units per USD,2018,2018,,141.3858333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,203,Spain,EUR,Euro,5540,Standard local currency units per USD,2016,2016,,0.904035128,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,203,Spain,EUR,Euro,5540,Standard local currency units per USD,2017,2017,,0.885205508,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,203,Spain,EUR,Euro,5540,Standard local currency units per USD,2018,2018,,0.846772667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,38,Sri Lanka,LKR,Sri Lanka Rupee,5540,Standard local currency units per USD,2016,2016,,145.5816675,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,38,Sri Lanka,LKR,Sri Lanka Rupee,5540,Standard local currency units per USD,2017,2017,,152.446414,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,38,Sri Lanka,LKR,Sri Lanka Rupee,5540,Standard local currency units per USD,2018,2018,,162.4648587,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,276,Sudan,SDG,Sudanese Pound,5540,Standard local currency units per USD,2016,2016,,6.751416667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,276,Sudan,SDG,Sudanese Pound,5540,Standard local currency units per USD,2017,2017,,6.68336,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,276,Sudan,SDG,Sudanese Pound,5540,Standard local currency units per USD,2018,2018,,24.3289109,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,207,Suriname,SRD,Surinam Dollar,5540,Standard local currency units per USD,2016,2016,,6.228630279,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,207,Suriname,SRD,Surinam Dollar,5540,Standard local currency units per USD,2017,2017,,7.487661125,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,207,Suriname,SRD,Surinam Dollar,5540,Standard local currency units per USD,2018,2018,,7.462511198,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,210,Sweden,SEK,Swedish Krona,5540,Standard local currency units per USD,2016,2016,,8.561991667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,210,Sweden,SEK,Swedish Krona,5540,Standard local currency units per USD,2017,2017,,8.548860833,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,210,Sweden,SEK,Swedish Krona,5540,Standard local currency units per USD,2018,2018,,8.692518333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,211,Switzerland,CHF,Swiss Franc,5540,Standard local currency units per USD,2016,2016,,0.985394394,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,211,Switzerland,CHF,Swiss Franc,5540,Standard local currency units per USD,2017,2017,,0.984691667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,211,Switzerland,CHF,Swiss Franc,5540,Standard local currency units per USD,2018,2018,,0.977883333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,212,Syrian Arab Republic,SYP,Syrian Pound,5540,Standard local currency units per USD,2016,2016,,460.2758333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,212,Syrian Arab Republic,SYP,Syrian Pound,5540,Standard local currency units per USD,2017,2017,,492.6108333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,212,Syrian Arab Republic,SYP,Syrian Pound,5540,Standard local currency units per USD,2018,2018,,434,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,208,Tajikistan,TJS,Somoni,5540,Standard local currency units per USD,2016,2016,,7.835675,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,208,Tajikistan,TJS,Somoni,5540,Standard local currency units per USD,2017,2017,,8.549741667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,208,Tajikistan,TJS,Somoni,5540,Standard local currency units per USD,2018,2018,,9.151216667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,216,Thailand,THB,Baht,5540,Standard local currency units per USD,2016,2016,,35.29638333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,216,Thailand,THB,Baht,5540,Standard local currency units per USD,2017,2017,,33.93981106,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,216,Thailand,THB,Baht,5540,Standard local currency units per USD,2018,2018,,32.31022574,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,176,Timor-Leste,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,176,Timor-Leste,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,176,Timor-Leste,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,217,Togo,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2016,2016,,592.6056151,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,217,Togo,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2017,2017,,580.6567496,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,217,Togo,XOF,CFA Franc BCEAO,5540,Standard local currency units per USD,2018,2018,,555.4464584,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,219,Tonga,TOP,Pa?anga,5540,Standard local currency units per USD,2016,2016,,2.215661104,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,219,Tonga,TOP,Pa?anga,5540,Standard local currency units per USD,2017,2017,,2.205972697,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,219,Tonga,TOP,Pa?anga,5540,Standard local currency units per USD,2018,2018,,2.236571476,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,220,Trinidad and Tobago,TTD,Trinidad and Tobago Dollar,5540,Standard local currency units per USD,2016,2016,,6.668966667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,220,Trinidad and Tobago,TTD,Trinidad and Tobago Dollar,5540,Standard local currency units per USD,2017,2017,,6.779525,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,220,Trinidad and Tobago,TTD,Trinidad and Tobago Dollar,5540,Standard local currency units per USD,2018,2018,,6.77070324,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,222,Tunisia,TND,Tunisian Dinar,5540,Standard local currency units per USD,2016,2016,,2.148033333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,222,Tunisia,TND,Tunisian Dinar,5540,Standard local currency units per USD,2017,2017,,2.419425,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,222,Tunisia,TND,Tunisian Dinar,5540,Standard local currency units per USD,2018,2018,,2.646866667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,223,Turkey,TRY,Turkish Lira,5540,Standard local currency units per USD,2016,2016,,3.020134748,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,223,Turkey,TRY,Turkish Lira,5540,Standard local currency units per USD,2017,2017,,3.648132635,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,223,Turkey,TRY,Turkish Lira,5540,Standard local currency units per USD,2018,2018,,4.828370147,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,213,Turkmenistan,TMT,Turkmenistan New Manat,5540,Standard local currency units per USD,2016,2016,,3.5,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,213,Turkmenistan,TMT,Turkmenistan New Manat,5540,Standard local currency units per USD,2017,2017,,3.5,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,213,Turkmenistan,TMT,Turkmenistan New Manat,5540,Standard local currency units per USD,2018,2018,,3.5,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,224,Turks and Caicos Islands,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,224,Turks and Caicos Islands,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,224,Turks and Caicos Islands,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,227,Tuvalu,AUD,Australian Dollar,5540,Standard local currency units per USD,2016,2016,,1.345213976,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,227,Tuvalu,AUD,Australian Dollar,5540,Standard local currency units per USD,2017,2017,,1.304758077,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,227,Tuvalu,AUD,Australian Dollar,5540,Standard local currency units per USD,2018,2018,,1.338412147,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,226,Uganda,UGX,Uganda Shilling,5540,Standard local currency units per USD,2016,2016,,3420.098007,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,226,Uganda,UGX,Uganda Shilling,5540,Standard local currency units per USD,2017,2017,,3611.224458,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,226,Uganda,UGX,Uganda Shilling,5540,Standard local currency units per USD,2018,2018,,3727.071722,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,230,Ukraine,UAH,Hryvnia,5540,Standard local currency units per USD,2016,2016,,25.55133412,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,230,Ukraine,UAH,Hryvnia,5540,Standard local currency units per USD,2017,2017,,26.5966063,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,230,Ukraine,UAH,Hryvnia,5540,Standard local currency units per USD,2018,2018,,27.20049233,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,225,United Arab Emirates,AED,UAE Dirham,5540,Standard local currency units per USD,2016,2016,,3.6725,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,225,United Arab Emirates,AED,UAE Dirham,5540,Standard local currency units per USD,2017,2017,,3.6725,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,225,United Arab Emirates,AED,UAE Dirham,5540,Standard local currency units per USD,2018,2018,,3.6725,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,229,United Kingdom of Great Britain and Northern Ireland,GBP,Pound Sterling,5540,Standard local currency units per USD,2016,2016,,0.740634464,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,229,United Kingdom of Great Britain and Northern Ireland,GBP,Pound Sterling,5540,Standard local currency units per USD,2017,2017,,0.777002598,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,229,United Kingdom of Great Britain and Northern Ireland,GBP,Pound Sterling,5540,Standard local currency units per USD,2018,2018,,0.749581638,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,215,United Republic of Tanzania,TZS,Tanzanian Shilling,5540,Standard local currency units per USD,2016,2016,,2177.085954,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,215,United Republic of Tanzania,TZS,Tanzanian Shilling,5540,Standard local currency units per USD,2017,2017,,2228.857629,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,215,United Republic of Tanzania,TZS,Tanzanian Shilling,5540,Standard local currency units per USD,2018,2018,,2263.780634,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,231,United States of America,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,231,United States of America,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,231,United States of America,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,234,Uruguay,UYU,Peso Uruguayo,5540,Standard local currency units per USD,2016,2016,,30.1626,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,234,Uruguay,UYU,Peso Uruguayo,5540,Standard local currency units per USD,2017,2017,,28.6764,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,234,Uruguay,UYU,Peso Uruguayo,5540,Standard local currency units per USD,2018,2018,,30.72525833,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,235,Uzbekistan,UZS,Uzbekistan Sum,5540,Standard local currency units per USD,2016,2016,,2965.253499,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,235,Uzbekistan,UZS,Uzbekistan Sum,5540,Standard local currency units per USD,2017,2017,,5113.878946,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,235,Uzbekistan,UZS,Uzbekistan Sum,5540,Standard local currency units per USD,2018,2018,,8069.606237,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,155,Vanuatu,VUV,Vatu,5540,Standard local currency units per USD,2016,2016,,108.475,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,155,Vanuatu,VUV,Vatu,5540,Standard local currency units per USD,2017,2017,,107.8208333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,155,Vanuatu,VUV,Vatu,5540,Standard local currency units per USD,2018,2018,,110.1683333,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,236,Venezuela (Bolivarian Republic of),VEF,Bol?var,5540,Standard local currency units per USD,2016,2016,,73.00382795,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,236,Venezuela (Bolivarian Republic of),VEF,Bol?var,5540,Standard local currency units per USD,2017,2017,,607.6882244,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,236,Venezuela (Bolivarian Republic of),VEF,Bol?var,5540,Standard local currency units per USD,2018,2018,,388549.2935,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,237,Viet Nam,VND,Dong,5540,Standard local currency units per USD,2016,2016,,21935.00083,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,237,Viet Nam,VND,Dong,5540,Standard local currency units per USD,2017,2017,,22370.08667,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,237,Viet Nam,VND,Dong,5540,Standard local currency units per USD,2018,2018,,22602.05,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,249,Yemen,YER,Yemeni Rial,5540,Standard local currency units per USD,2016,2016,,241.2696825,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,249,Yemen,YER,Yemeni Rial,5540,Standard local currency units per USD,2017,2017,,250.25,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,249,Yemen,YER,Yemeni Rial,5540,Standard local currency units per USD,2018,2018,,250.25,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,251,Zambia,ZMW,Zambian Kwacha,5540,Standard local currency units per USD,2016,2016,,10.31305323,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,251,Zambia,ZMW,Zambian Kwacha,5540,Standard local currency units per USD,2017,2017,,9.51950142,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,251,Zambia,ZMW,Zambian Kwacha,5540,Standard local currency units per USD,2018,2018,,10.45814322,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,181,Zimbabwe,USD,US Dollar,5540,Standard local currency units per USD,2016,2016,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,181,Zimbabwe,USD,US Dollar,5540,Standard local currency units per USD,2017,2017,,1,X,International reliable sources,Data from UNSD AMA
+PE,Exchange rates - Annual,181,Zimbabwe,USD,US Dollar,5540,Standard local currency units per USD,2018,2018,,1,X,International reliable sources,Data from UNSD AMA
